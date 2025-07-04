@@ -52,7 +52,7 @@ These patterns provide clear signals for HR:
 
 ## 📂 Folder Contents
 
-- `![/Dataset`] – DataSet/Attendance Sheet 2022-2023_Masked.xlsx
+- ![Dataset](DataSet/Attendance Sheet 2022-2023_Masked.xlsx)
 - `/PowerBI_Report` – Final `.pbix` dashboard file  
 - `/Screenshots` – PNG images for LinkedIn/GitHub/Portfolio  
 - `/Insights` – Optional markdown for writing business impact
