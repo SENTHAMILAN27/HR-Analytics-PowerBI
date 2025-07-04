@@ -51,7 +51,7 @@ These patterns provide clear signals for HR:
 ---
 | Live Dashboard |
 |----------|
-| ![Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWQ4NDhkNjgtYmVjNS00NDcxLTkxZmQtMDc4NGI1MDMyODE2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) |
+(https://app.powerbi.com/view?r=eyJrIjoiNWQ4NDhkNjgtYmVjNS00NDcxLTkxZmQtMDc4NGI1MDMyODE2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) |
 ## 📂 Folder Contents
 
 - `/Dataset` – Raw and cleaned Excel files  
