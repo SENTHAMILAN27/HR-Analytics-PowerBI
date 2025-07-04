@@ -46,7 +46,7 @@ These patterns provide clear signals for HR:
 
 | KPI Cards | Attendance Over Time | SL % Trend |
 |----------|----------------------|------------|
-| ![KPI](./Screenshots/KPI_Cards.png) | ![Trend](./Screenshots/Attendance_Trends.png) | ![SL](./Screenshots/Dashboard_Overview.png) |
+| ![KPI](https://github.com/SENTHAMILAN27/HR-Analytics-PowerBI/blob/main/Image/KPI%20Card.png))| ![SL](Image/SL.PNG) |
 
 ---
 
