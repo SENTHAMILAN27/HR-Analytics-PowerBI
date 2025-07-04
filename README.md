@@ -49,7 +49,9 @@ These patterns provide clear signals for HR:
 | ![KPI](https://github.com/SENTHAMILAN27/HR-Analytics-PowerBI/blob/main/Image/KPI%20Card.png) |![sl](Image/Attendance.PNG)| ![SL](Image/SL.PNG)
 
 ---
-
+| Live Dashboard |
+|----------|
+| ![Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWQ4NDhkNjgtYmVjNS00NDcxLTkxZmQtMDc4NGI1MDMyODE2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) |
 ## 📂 Folder Contents
 
 - `/Dataset` – Raw and cleaned Excel files  
