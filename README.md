@@ -52,7 +52,7 @@ These patterns provide clear signals for HR:
 
 ## 📂 Folder Contents
 
-- ![Dataset](DataSet/Attendance Sheet 2022-2023_Masked.xlsx)
+- `/Dataset` – Raw and cleaned Excel files  
 - `/PowerBI_Report` – Final `.pbix` dashboard file  
 - `/Screenshots` – PNG images for LinkedIn/GitHub/Portfolio  
 - `/Insights` – Optional markdown for writing business impact
@@ -64,7 +64,7 @@ These patterns provide clear signals for HR:
 **Senthamilan A**  
 Aspiring Data Analyst with experience in banking operations & real-time reporting.  
 Currently building a diverse portfolio of Power BI, SQL, and Excel-based business dashboards.  
-[📎 LinkedIn](https://www.linkedin.com/in/senthamilan-a/) |
+[📎 LinkedIn](https://www.linkedin.com/in/senthamilan27/) |
 [📂 Portfolio](https://codebasics.io/portfolio/SENTHAMILAN-A)
 
 ---
